@@ -8,5 +8,8 @@
 </head>
 <body>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reiciendis dolores, omnis a, aspernatur, commodi rerum blanditiis architecto voluptate nemo sint libero velit quod mollitia officiis atque eaque. Facere, cum ipsum!</p>
+    <ul>
+    <li>sidikapappapa :1000</li>
+    </ul>
 </body>
 </html>
